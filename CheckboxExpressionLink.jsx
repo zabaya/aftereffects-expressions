@@ -1,4 +1,4 @@
-// Checkbox Expression Link - Created by Animoplex: www.animoplex.com
+// Checkbox Expression Link
 // Link an effect or property to a checkbox control with an expression in After Effects.
 // Full Tutorial: https://www.youtube.com/watch?v=ggwCkj3sWZM
 
