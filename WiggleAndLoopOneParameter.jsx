@@ -1,3 +1,5 @@
+// Combine a Wiggle and a Loop on one Parameter
+
 // you can also put "pingpong" instead of "cycle" for your loop
 L = loopOut ("cycle" ) ; 
 
