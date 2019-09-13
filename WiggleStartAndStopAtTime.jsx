@@ -1,5 +1,4 @@
-  // Wiggle start at 2 seconds:
-  
+// Wiggle start at 2 seconds:
   timeToStart = 2;
     if (time > timeToStart){
         wiggle(3,25);
@@ -7,8 +6,7 @@
         value;
     }
   
-// Wiggle stops at 4 seconds:
-  
+// Wiggle stops at 4 seconds: 
   timeToStop = 4;
     if (time > timeToStop){
       value;
@@ -17,7 +15,6 @@
     }
 
 // Wiggle start at 2 seconds and stops at 4 seconds:
-  
   timeToStart = 2;
   timeToStop = 4; 
     if ((time > timeToStart) && (time < timeToStop)){
