@@ -2,11 +2,11 @@
 // Add a rectangle to the Text Box layer and add a fill. (Through the menu, then the rectangle will be automaticly centered.)
 // Align the Text Layer to the center of the comp.
 
-// Paste this in the Size of the rectangle
+// Paste this in the Size of the rectangle (the +40 is a margin)
 
 s=thisComp.layer("My Text Layer");
-w=s.sourceRectAtTime().width;
-h=s.sourceRectAtTime().height;
+w=s.sourceRectAtTime().width +40;
+h=s.sourceRectAtTime().height +40;
 
 [w,h]
 
