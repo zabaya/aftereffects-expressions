@@ -11,7 +11,7 @@ Often I find myself reusing the same expressions over and over, and I have the t
 
 ### Other expressions
 
-- [Start expression on keyframed checkbox](/expressions/CheckboxExpressionLink.jsx)
 - [Simple numbercounter](/expressions/NumberCounter.jsx)
-- [Parent transparency of parented layer](/expressions/ParentTransparency.jsx)
 - [Autoscale textbox](/expressions/ResizebleTextbox.jsx)
+- [Start expression on keyframed checkbox](/expressions/CheckboxExpressionLink.jsx)
+- [Parent transparency of a parented layer](/expressions/ParentTransparency.jsx)
