@@ -4,7 +4,7 @@ freq = 1;
 // Create variable “amp” to represent wiggle amplitude and set it to 110 pixels.
 amp = 110;
 
-// The variable loopTime will represent the lenght of our wiffle loop (3 seconds).
+// The variable loopTime will represent the lenght of our wiggle loop (3 seconds).
 loopTime = 3;
 
 // Leave this
