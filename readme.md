@@ -6,7 +6,7 @@ Often I find myself reusing the same expressions over and over, and I have the t
 
 - [Looping wiggle over a period of time](/expressions/LoopingWiggle.jsx)
 - [Wiggle only vertical or horizontal](/expressions/WiggleOneDirection.jsx)
-- [WiggleAndLoopOneParameter.jsx](/expressions/WiggleAndLoopOneParameter.jsx)
+- [Combine a Wiggle and a Loop on one Parameter](/expressions/WiggleAndLoopOneParameter.jsx)
 - [Wiggle that starts and/or stops on a specific time in layer](/expressions/WiggleStartAndStopAtTime.jsx)
 
 ### Other expressions
