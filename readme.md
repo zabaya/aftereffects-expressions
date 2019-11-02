@@ -4,14 +4,14 @@ Often I find myself reusing the same expressions over and over, and I have the t
 
 ### Wiggle expressions
 
-- [LoopingWiggle.jsx ](/expressions/LoopingWiggle.jsx)
-- [WiggleOneDirection.jsx](/expressions/WiggleOneDirection.jsx)
+- [Looping wiggle over a period of time](/expressions/LoopingWiggle.jsx)
+- [Wiggle only vertical or horizontal](/expressions/WiggleOneDirection.jsx)
 - [WiggleAndLoopOneParameter.jsx](/expressions/WiggleAndLoopOneParameter.jsx)
-- [WiggleStartAndStopAtTime.jsx](/expressions/WiggleStartAndStopAtTime.jsx)
+- [Wiggle that starts and/or stops on a specific time in layer](/expressions/WiggleStartAndStopAtTime.jsx)
 
 ### Other expressions
 
-- [CheckboxExpressionLink](/expressions/CheckboxExpressionLink.jsx)
-- [NumberCounter.jsx](/expressions/NumberCounter.jsx)
-- [ParentTransparency.jsx](/expressions/ParentTransparency.jsx)
-- [ResizebleTextbox.jsx](/expressions/ResizebleTextbox.jsx)
+- [Start expression on keyframed checkbox](/expressions/CheckboxExpressionLink.jsx)
+- [Simple numbercounter](/expressions/NumberCounter.jsx)
+- [Parent transparency of parented layer](/expressions/ParentTransparency.jsx)
+- [Autoscale textbox](/expressions/ResizebleTextbox.jsx)
