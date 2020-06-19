@@ -10,7 +10,7 @@ Often I find myself reusing the same expressions over and over, and I have the t
 - [Wiggle that starts and/or stops on a specific time in layer](/expressions/WiggleStartAndStopAtTime.jsx)
 
 ### Other expressions
-
+- [Looping path or mask](/expressions/LoopingPathOrMask.jsx)
 - [Simple numbercounter](/expressions/NumberCounter.jsx)
 - [Autoscale textbox](/expressions/ResizebleTextbox.jsx)
 - [Start expression on keyframed checkbox](/expressions/CheckboxExpressionLink.jsx)
