@@ -15,4 +15,4 @@ Often I find myself reusing the same expressions over and over, and I have the t
 - [Autoscale textbox](/expressions/ResizebleTextbox.jsx)
 - [Start expression on keyframed checkbox](/expressions/CheckboxExpressionLink.jsx)
 - [Parent transparency of a parented layer](/expressions/ParentTransparency.jsx)
-- [Follow the leader with Delay](/expressions/FollowLeaderWithDelay.jsx)
+- [Follow the leader with delay](/expressions/FollowLeaderWithDelay.jsx)
