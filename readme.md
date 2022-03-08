@@ -10,9 +10,11 @@ Often I find myself reusing the same expressions over and over, and I have the t
 - [Wiggle that starts and/or stops on a specific time in layer](/expressions/WiggleStartAndStopAtTime.jsx)
 
 ### Other expressions
+- [Angular Control](/expressions/AngularControl.jsx)
 - [Looping path or mask](/expressions/LoopingPathOrMask.jsx)
 - [Simple numbercounter](/expressions/NumberCounter.jsx)
 - [Autoscale textbox](/expressions/ResizebleTextbox.jsx)
 - [Start expression on keyframed checkbox](/expressions/CheckboxExpressionLink.jsx)
 - [Parent transparency of a parented layer](/expressions/ParentTransparency.jsx)
 - [Follow the leader with delay](/expressions/FollowLeaderWithDelay.jsx)
+
