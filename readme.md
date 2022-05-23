@@ -10,7 +10,7 @@ Often I find myself reusing the same expressions over and over, and I have the t
 - [Start expression on keyframed checkbox](/expressions/CheckboxExpressionLink.jsx)
 - [Parent transparency of a parented layer](/expressions/ParentTransparency.jsx)
 - [Follow the leader with delay](/expressions/FollowLeaderWithDelay.jsx)
-- [Text animator on markers](/expressions/TextAnimatorOnMarkers.jxt)
+- [Text animator on markers](/expressions/TextAnimatorOnMarkers.jsx)
 
 ### Wiggle expressions
 
