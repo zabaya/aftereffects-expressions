@@ -4,7 +4,7 @@
 
 // Paste this in the Size of the rectangle (the +40 is a margin)
 
-s=thisComp.layer("My Text Layer");
+s=thisComp.layer("textLayer1");
 w=s.sourceRectAtTime().width +40;
 h=s.sourceRectAtTime().height +40;
 
@@ -12,7 +12,7 @@ h=s.sourceRectAtTime().height +40;
 
 // Paste this in Position of the rectangle (not the Layer Position)
 
-s=thisComp.layer("My Text Layer");
+s=thisComp.layer("textLayer1");
 w=s.sourceRectAtTime().width/2;
 h=s.sourceRectAtTime().height/2;
 l=s.sourceRectAtTime().left;
