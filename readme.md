@@ -11,6 +11,7 @@ Often I find myself reusing the same expressions over and over, and I have the t
 - [Parent transparency of a parented layer](/expressions/ParentTransparency.jsx)
 - [Follow the leader with delay](/expressions/FollowLeaderWithDelay.jsx)
 - [Text animator on markers](/expressions/TextAnimatorOnMarkers.jsx)
+- [Trigger based on markers](/expressions/TriggerAnimationBasedOnMarker.jsx)
 
 ### Wiggle expressions
 
