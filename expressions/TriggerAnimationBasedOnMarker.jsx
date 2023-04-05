@@ -1,4 +1,5 @@
-// Copy this in the properties from the layer that you want to trigger based on markers
+// Copy this in the properties from the layer that you want to trigger based on markers. 
+// If you want to use this on a composition paste the expression on time-remap.
 
 L = thisLayer;
 n = 0;
