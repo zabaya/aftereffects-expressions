@@ -6,6 +6,7 @@ Often I find myself reusing the same expressions over and over, and I have the t
 - [Angular Control](/expressions/AngularControl.jsx)
 - [Looping path or mask](/expressions/LoopingPathOrMask.jsx)
 - [Simple numbercounter](/expressions/NumberCounter.jsx)
+- [Rolling Ball or Wheel](/expressions/RollingBall.jsx)
 - [Autoscale textbox](/expressions/ResizebleTextbox.jsx)
 - [Start expression on keyframed checkbox](/expressions/CheckboxExpressionLink.jsx)
 - [Parent transparency of a parented layer](/expressions/ParentTransparency.jsx)
