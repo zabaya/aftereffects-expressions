@@ -1,4 +1,4 @@
-2D Layer
+// 2D Layer
 diameter=width;
 pi=Math.PI;
 circumference=diameter*pi;
@@ -8,7 +8,7 @@ scalePercent=thisLayer.transform.scale[0]/100;
 rot*Xpos/scalePercent
 
 
-CC Sphere in one dimension:
+// CC Sphere in one dimension:
 diameter=effect("CC Sphere")("Radius")
 pi=Math.PI;
 circumference=diameter*pi;
@@ -18,7 +18,7 @@ scalePercent=thisLayer.transform.scale[0]/100;
 rot*Xpos/scalePercent
 
 
-CC Sphere coming towards camera:
+// CC Sphere coming towards camera:
 diameter=effect("CC Sphere")("Radius")
 pi=Math.PI;
 circumference=diameter*pi;
